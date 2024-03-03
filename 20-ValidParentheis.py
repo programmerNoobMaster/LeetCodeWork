@@ -26,4 +26,3 @@ class Solution:
             c-=2
         return True
     
-#test
